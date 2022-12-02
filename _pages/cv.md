@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Find my CV! *Still in progress*
+Find my [here](https://mateomoglia.github.io/files/CVNov22pdf)
