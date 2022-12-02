@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Find my [here](https://mateomoglia.github.io/files/CVNov22pdf)
+Find my [CV](https://mateomoglia.github.io/files/CVNov22pdf).
