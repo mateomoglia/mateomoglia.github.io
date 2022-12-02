@@ -8,7 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Find my CV!
-
-
-<a href="files/CVNov22.pdf" class="image fit">PDF</a>
+Find my CV! *Still in progress*
