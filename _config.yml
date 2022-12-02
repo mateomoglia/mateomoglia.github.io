@@ -7,6 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
+theme			 : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "contrast"
 title                    : "Matéo Moglia"
 title_separator          : "-"
 name                     : &name "Matéo Moglia"

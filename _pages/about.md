@@ -13,7 +13,7 @@ Welcome to my website.
 Holding a MPhil. in Advanced Economics from [Ecole Normale Supérieure de Lyon](www.economie.ens-lyon.fr)'s Department of Economics, I am currently research assistant [HEC Lausanne](https://www.unil.ch/hec/fr/home.html), a component of University of Lausanne, under the supervision of [Pr. Mathias Thoenig](https://people.unil.ch/mathiasthoenig/).
 
 I also hold a Bachelor in Economics from ENS de Lyon, a school I entered after 2 years of *Classes Préparatoires aux Grandes Écoles* ENS D2, an intensive program in mathematics and economics that prepares to highly competitive entry exams of French "Grandes écoles" (top undergrad schools).
-<center><table><tr><td> You can download my CV here.</td></tr></table></center>
+<table><tr><td> <center> <font size="+2"><a href="https://mateomoglia.github.io/files/CVNov22.pdf">You can download my CV here!</a></font></center></td></tr></table>
 
 At the moment
 ======

@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Find my [CV](files/CVNov22.pdf).
+Find my 
