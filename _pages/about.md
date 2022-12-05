@@ -41,4 +41,4 @@ Below, researchers who supervised my work or for whom I worked, and agreed to ac
 * [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/){:target="_blank"}, CNRS Professor. Department of Economics, Sciences Po.
 * [Mathieu Couttenier](https://sites.google.com/site/coutteniermathieu/home){:target="_blank"}, Professor of Economics. Department of Economics, ENS de Lyon.
 * [Laurent Simula](http://laurentsimula.files.wordpress.com){:target="_blank"}, Professor of Economics and Director of Department. Department of Economics, ENS de Lyon.
-* [Mathias Thoenig](https://people.unil.ch/mathiasthoenig/){:target="_blank"}. Professor of Economics. School of Business and Economics, University of Lausanne.
+* [Mathias Thoenig](https://people.unil.ch/mathiasthoenig/){:target="_blank"}, Professor of Economics. School of Business and Economics, University of Lausanne.
