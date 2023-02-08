@@ -21,7 +21,7 @@ I also hold a Bachelor in Economics from ENS de Lyon, a school I entered in afte
 At the moment
 ======
 
-During my predoc, **I am assisting Pr. Thoenig** and his coauthors: [Fabrizio Colella](https://www.fabriziocolella.com){:target="_blank"}, [Pr. Mathieu Couttenier](https://sites.google.com/site/coutteniermathieu/home){:target="_blank"}, [Seyhun Sakalli](https://sites.google.com/site/sosakalli/){:target="_blank"}, especially. I **collected quantitative and qualitative data** on conflicts, African ethnic groups and crops prices. But my main mission is to implement and improve the [*acreg*](https://acregstata.weebly.com) function on Stata.
+During my predoc, **I am assisting Pr. Thoenig** and his coauthors: [Fabrizio Colella](https://www.fabriziocolella.com){:target="_blank"}, [Pr. Mathieu Couttenier](https://sites.google.com/site/coutteniermathieu/home){:target="_blank"}, [Seyhun Sakalli](https://sites.google.com/site/sosakalli/){:target="_blank"}, especially. I **collected quantitative and qualitative data** on conflicts, African ethnic groups and crops prices. Moreover, I helped implementing and improving the [*acreg*](https://acregstata.weebly.com) function on Stata. At the moment, I am building a network of all roads in Africa in order to compute shortest path and quickest path algorithms between two given points (*see the code in Code*).
 
 I also teach a quantitative methods class for master's students at ENS de Lyon, as well as being an oral examiner in *classes préparatoires*
 
