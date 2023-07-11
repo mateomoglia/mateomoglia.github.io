@@ -14,12 +14,11 @@ Holding a **MPhil. in Advanced Economics** from [Ecole Normale Supérieure de Ly
 
 
 This thesis will investigate questions related to spatial economics, especially residential migrations, and political economy, with a focus on local electoral behaviors. 
-<!---
 
-I defended my **master's thesis** (available upon request) in September 2022. It assesses the effects of negative TFP shock on French local labor markets, especially through the spatial reallocations of workers. The structural approach allowed me to compute the general effects of a nationwide negative shock on the manufacturing sector and the local implications in terms of wages, labor force composition and workers welfare.
 
-#I also hold a Bachelor in Economics from ENS de Lyon, a school I entered in after 2 years of *Classes Préparatoires aux Grandes Écoles* ENS D2, an intensive program in mathematics and economics that prepares to highly competitive entry exams of French "Grandes écoles" (top undergrad schools).
---->
+<!--- I defended my **master's thesis** (available upon request) in September 2022. It assesses the effects of negative TFP shock on French local labor markets, especially through the spatial reallocations of workers. The structural approach allowed me to compute the general effects of a nationwide negative shock on the manufacturing sector and the local implications in terms of wages, labor force composition and workers welfare. --->
+
+<!--- I also hold a Bachelor in Economics from ENS de Lyon, a school I entered in after 2 years of *Classes Préparatoires aux Grandes Écoles* ENS D2, an intensive program in mathematics and economics that prepares to highly competitive entry exams of French "Grandes écoles" (top undergrad schools). --->
 
 <center><a href="https://mateomoglia.github.io/files/CVNov22.pdf" class="btn btn--info btn--large">You can download my CV</a></center>
 
