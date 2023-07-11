@@ -14,16 +14,16 @@ Holding a **MPhil. in Advanced Economics** from [Ecole Normale Supérieure de Ly
 
 
 This thesis will investigate questions related to spatial economics, especially residential migrations, and political economy, with a focus on local electoral behaviors. 
-<!--
+<!---
 
 I defended my **master's thesis** (available upon request) in September 2022. It assesses the effects of negative TFP shock on French local labor markets, especially through the spatial reallocations of workers. The structural approach allowed me to compute the general effects of a nationwide negative shock on the manufacturing sector and the local implications in terms of wages, labor force composition and workers welfare.
 
 #I also hold a Bachelor in Economics from ENS de Lyon, a school I entered in after 2 years of *Classes Préparatoires aux Grandes Écoles* ENS D2, an intensive program in mathematics and economics that prepares to highly competitive entry exams of French "Grandes écoles" (top undergrad schools).
--->
+--->
 
 <center><a href="https://mateomoglia.github.io/files/CVNov22.pdf" class="btn btn--info btn--large">You can download my CV</a></center>
 
-<!--
+<!---
 
 #At the moment
 #======
@@ -40,7 +40,7 @@ I defended my **master's thesis** (available upon request) in September 2022. It
 
 #My fields of expertise are **urban and spatial economics**. For my thesis, I would like to investigate the connexions that may exist between economic agents location choices, local (labor) markets, (local) taxations and (local) politics, with a preference for a structural approach.
 
---> 
+---> 
 
 References
 ======
@@ -49,5 +49,5 @@ Below, researchers who supervised my work or for whom I worked, and agreed to ac
 
 * [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/){:target="_blank"}, CNRS Professor. Department of Economics, Sciences Po.
 * [Mathieu Couttenier](https://sites.google.com/site/coutteniermathieu/home){:target="_blank"}, Professor of Economics and Director of Laboratory. Department of Economics, ENS de Lyon.
-#* [Laurent Simula](http://laurentsimula.files.wordpress.com){:target="_blank"}, Professor of Economics and Director of Department. Department of Economics, ENS de Lyon.
+<!--- [Laurent Simula](http://laurentsimula.files.wordpress.com){:target="_blank"}, Professor of Economics and Director of Department. Department of Economics, ENS de Lyon. --->
 * [Mathias Thoenig](https://people.unil.ch/mathiasthoenig/){:target="_blank"}, Professor of Economics. School of Business and Economics, University of Lausanne.
