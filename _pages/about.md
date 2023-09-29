@@ -10,11 +10,11 @@ redirect_from:
 
 Welcome to my website! 
 
-Holding a **MPhil. in Advanced Economics** from [Ecole Normale Supérieure de Lyon](http://economie.ens-lyon.fr){:target="_blank"}'s Department of Economics and **former research assistant** at [HEC Lausanne](https://www.unil.ch/hec/fr/home.html){:target="_blank"}, under the supervision of [Pr. Mathias Thoenig](https://people.unil.ch/mathiasthoenig/){:target="_blank"}, I am starting my PhD at [CREST](https://www.crest.science)/[Polytechnique](https://www.polytechnique.edu) in September 2023. This thesis will be supervised by [Pierre Boyer](www.pierrecboyer.com) (Polytechnique and CREST) and [Benoit Schmutz](https://sites.google.com/site/benoitschmutz/home) (Polytechnique and CREST).  
+I am a **1st year PhD student** at [CREST](https://www.crest.science)/[Institut Polytechnique de Paris](https://www.polytechnique.edu) since October '23, under the supervision of [Pierre Boyer](www.pierrecboyer.com) (Polytechnique and CREST) and [Benoit Schmutz](https://sites.google.com/site/benoitschmutz/home) (Polytechnique and CREST). 
 
+I hold a **MPhil. in Advanced Economics** from [Ecole Normale Supérieure de Lyon](http://economie.ens-lyon.fr){:target="_blank"}'s Department of Economics and I am a **former research assistant** at [HEC Lausanne](https://www.unil.ch/hec/fr/home.html){:target="_blank"}, to[Mathias Thoenig](https://people.unil.ch/mathiasthoenig/){:target="_blank"}.
 
-This thesis will investigate questions related to spatial economics, especially residential migrations, and political economy, with a focus on local electoral behaviors. 
-
+My thesis will investigate questions related to spatial economics, especially residential migrations, and political economy, with a focus on local electoral behaviors. 
 
 <!--- I defended my **master's thesis** (available upon request) in September 2022. It assesses the effects of negative TFP shock on French local labor markets, especially through the spatial reallocations of workers. The structural approach allowed me to compute the general effects of a nationwide negative shock on the manufacturing sector and the local implications in terms of wages, labor force composition and workers welfare. --->
 
@@ -46,7 +46,9 @@ References
 
 Below, researchers who supervised my work or for whom I worked, and agreed to act as references:
 
+* [Pierre Boyer](www.pierrecboyer.com){:target="_blank"}, Professor of Economics, Polytechnique and CREST.
 * [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/){:target="_blank"}, CNRS Professor. Department of Economics, Sciences Po.
-* [Mathieu Couttenier](https://sites.google.com/site/coutteniermathieu/home){:target="_blank"}, Professor of Economics and Director of Laboratory. Department of Economics, ENS de Lyon.
+<!---* [Mathieu Couttenier](https://sites.google.com/site/coutteniermathieu/home){:target="_blank"}, Professor of Economics and Director of Laboratory. Department of Economics, ENS de Lyon. --->
 <!--- [Laurent Simula](http://laurentsimula.files.wordpress.com){:target="_blank"}, Professor of Economics and Director of Department. Department of Economics, ENS de Lyon. --->
+* [Benoit Schmutz](https://sites.google.com/site/benoitschmutz/home), Professor of economics, Polytechnique and CREST.
 * [Mathias Thoenig](https://people.unil.ch/mathiasthoenig/){:target="_blank"}, Professor of Economics. School of Business and Economics, University of Lausanne.
