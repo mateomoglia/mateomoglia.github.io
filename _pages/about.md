@@ -20,7 +20,7 @@ My thesis will investigate questions related to spatial economics, especially re
 
 <!--- I also hold a Bachelor in Economics from ENS de Lyon, a school I entered in after 2 years of *Classes Préparatoires aux Grandes Écoles* ENS D2, an intensive program in mathematics and economics that prepares to highly competitive entry exams of French "Grandes écoles" (top undergrad schools). --->
 
-<center><a href="https://mateomoglia.github.io/files/CVOct23.pdf" class="btn btn--info btn--large">You can download my CV</a></center>
+<center><a href="https://mateomoglia.github.io/files/CVMoglia.pdf" class="btn btn--info btn--large">You can download my CV</a></center>
 
 <!---
 
