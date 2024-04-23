@@ -181,15 +181,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  code:
-    output: false
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
   seminars:
     output: true
     permalink: /:collection/:path/
