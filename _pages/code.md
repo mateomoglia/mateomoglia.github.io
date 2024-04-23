@@ -3,6 +3,7 @@ layout: archive
 title: "Code"
 permalink: /code/
 author_profile: true
+exclude: true
 ---
 
 1. FINESS data
