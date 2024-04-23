@@ -1,5 +1,5 @@
 ---
-layout: empty
+layout: archive
 title: "PhD Urban Economics Seminar (Paris)"
 permalink: /seminars/
 author_profile: false
@@ -16,3 +16,4 @@ If you are interested to present, or to be part of the mailing list, please send
 - [Julia Paul-Venturine](https://julia-paulventurine.github.io), TBA 
 - Maison des Sciences Economiques, 112 Boulevard de l'Hôpital (Paris 13). Room 116.
 - April 28, 2024, 6pm 
+
