@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "PhD Urban Economics Seminar (Paris)"
-permalink: /code/
+permalink: /seminars/
 author_profile: false
 ---
 
