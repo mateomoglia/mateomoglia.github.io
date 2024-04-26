@@ -7,7 +7,7 @@ author_profile: false
 
 This seminar series is tailored for PhD students in Urban/Spatial Economics in the Paris area. Everyone interested in the field is encouraged to attend.
 
-Usually, presentations take place in a difference Parisian institution and lasts for an hour, including discussion. 
+Usually, presentations take place in a different Parisian institution and last for an hour, including discussions. 
 
 If you are interested to present, or to be part of the mailing list, please send me an email or answer this [survey](https://docs.google.com/forms/d/1w9iQOsRZdz3QmAFZgpHmkIIsCTQhglR-ykP51H5jEPY/prefill).
 
