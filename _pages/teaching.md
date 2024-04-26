@@ -4,7 +4,25 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
 <br>
+<details>
+<summary> 
+
+<b> Topics in Economics (Tutorial) </b> Bachelor 1, Ecole polytechnique. Spring 2024.
+
+</summary>
+
+<ul>
+<li>This tutorial consists of 2-hour 16 "petites classes", to support ECON102 class taught by Pr. Barrows and Pr. Schmutz.</li>
+<li>Students discover standard applied econometrics tools (linear regression, IV, fixed effects, DD). They apply them using real world data or by replicating influential paper, using Stata.</li>
+<li>57 students followed the tutorial.</li>
+</ul>
+
+</details>
+
+<br>
+
 <details>
 <summary> 
 

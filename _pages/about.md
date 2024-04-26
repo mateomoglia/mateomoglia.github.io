@@ -12,9 +12,11 @@ Welcome to my website!
 
 I am a **1st year PhD student** at [CREST](https://www.crest.science)/[Institut Polytechnique de Paris](https://www.polytechnique.edu) since October '23, under the supervision of [Pierre Boyer](www.pierrecboyer.com) (Polytechnique and CREST) and [Benoit Schmutz](https://sites.google.com/site/benoitschmutz/home) (Polytechnique and CREST). 
 
-I hold a **MPhil. in Advanced Economics** from [Ecole Normale Supérieure de Lyon](http://economie.ens-lyon.fr){:target="_blank"}'s Department of Economics and I am a **former research assistant** at [HEC Lausanne](https://www.unil.ch/hec/fr/home.html){:target="_blank"}, to[Mathias Thoenig](https://people.unil.ch/mathiasthoenig/){:target="_blank"}.
+I hold a **MPhil. in Advanced Economics** from [Ecole Normale Supérieure de Lyon](http://economie.ens-lyon.fr){:target="_blank"}'s Department of Economics and I am a **former research assistant** at [HEC Lausanne](https://www.unil.ch/hec/fr/home.html){:target="_blank"}, to [Mathias Thoenig](https://people.unil.ch/mathiasthoenig/){:target="_blank"}.
 
 My thesis will investigate questions related to spatial economics, especially residential migrations, and political economy, with a focus on local electoral behaviors. 
+
+I also coordinate a PhD-level seminar series in urban and spatial economics for students in the Parisian area. Don't hesitate to reach out if you want to be in the mailing list! It starts in April 2024. [Find all information here!](https://mateomoglia.github.io/seminars/)
 
 <!--- I defended my **master's thesis** (available upon request) in September 2022. It assesses the effects of negative TFP shock on French local labor markets, especially through the spatial reallocations of workers. The structural approach allowed me to compute the general effects of a nationwide negative shock on the manufacturing sector and the local implications in terms of wages, labor force composition and workers welfare. --->
 
