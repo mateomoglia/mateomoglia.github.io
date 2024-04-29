@@ -1,15 +1,9 @@
 ---
-layout: empty
+layout: default
 title: "PhD Urban Economics Seminar (Paris)"
 permalink: /seminars/
 author_profile: false
 ---
-
-<div align="center"><b>
-PhD Urban Economics Seminar (Paris)
-</b></div>
-
-</br>
 
 This seminar series is tailored for PhD students in Urban/Spatial Economics in the Paris area. Everyone interested in the field is encouraged to attend.
 
