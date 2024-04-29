@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: empty
 title: "PhD Urban Economics Seminar (Paris)"
 permalink: /seminars/
 author_profile: false
