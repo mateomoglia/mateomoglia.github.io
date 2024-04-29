@@ -9,7 +9,7 @@ This seminar series is tailored for PhD students in Urban/Spatial Economics in t
 
 Usually, presentations take place in a different Parisian institution and last for an hour, including discussions. 
 
-If you are interested to present, or to be part of the mailing list, please send me an email or answer this [survey](https://docs.google.com/forms/d/1w9iQOsRZdz3QmAFZgpHmkIIsCTQhglR-ykP51H5jEPY/prefill).
+If you are interested to present, or to be part of the mailing list, please send me an email or answer this [survey](https://docs.google.com/forms/d/e/1FAIpQLSfRDyL9Ebda-JTi6Mq0GqPel6g5KH605jW9gQgIT8mLQv3gww/viewform).
 
 **Next presentation**
 
