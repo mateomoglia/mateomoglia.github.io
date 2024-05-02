@@ -13,6 +13,12 @@ If you are interested to present, or to be part of the mailing list, please send
 
 **Next presentation**
 
+- [Thomas Monnier](https://tlmonnier.github.io), CREST. *TBA*
+- Location to be defined
+- May 29, 2024, 6pm
+
+**Past presentations**
+
 - [Julia Paul-Venturine](https://julia-paulventurine.github.io), Sciences Po & PSE. *TBA*. 
 - Maison des Sciences Economiques, 112 Boulevard de l'Hôpital (Paris 13). Room 116.
 - April 28, 2024, 6pm 
