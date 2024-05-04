@@ -27,10 +27,10 @@ If you are interested to present, or to be part of the mailing list, please send
 </summary>
 
 <ul>
-<li><a href="https://julia-paulventurine.github.io">Julia Paul-Venturine</a> (PSE)
-<li><i>Can the central government modify land use regulation ? Evidence from the removal of floor area ratio in France</i>
-<li>Maison des Sciences Economiques, 112 Boulevard de l'Hôpital (Paris 13). Room 116.
-<li>April 28, 2024, 6pm 
+<li><a href="https://julia-paulventurine.github.io">Julia Paul-Venturine</a> (PSE)</li>
+<li><i>Can the central government modify land use regulation ? Evidence from the removal of floor area ratio in France</i></li>
+<li>Maison des Sciences Economiques, 112 Boulevard de l'Hôpital (Paris 13). Room 116.</li>
+<li>April 28, 2024, 6pm </li>
 </ul>
 
 </details>
