@@ -13,13 +13,23 @@ If you are interested to present, or to be part of the mailing list, please send
 
 **Next presentation**
 
-- [Thomas Monnier](https://tlmonnier.github.io), CREST. *TBA*
+- [Thomas Monnier](https://tlmonnier.github.io) (CREST)
+- *Rural-to-Urban Migration with Search Frictions and Informal Labour: Application to South Africa*
 - Location to be defined
-- May 29, 2024, 6pm
+- May 28, 2024, 6pm
+
+<br>
+<details>
+<summary> 
 
 **Past presentations**
 
-- [Julia Paul-Venturine](https://julia-paulventurine.github.io), Sciences Po & PSE. *TBA*. 
+</summary>
+
+- [Julia Paul-Venturine](https://julia-paulventurine.github.io) (PSE)
+- *Can the central government modify land use regulation ? Evidence from the removal of floor area ratio in France* 
 - Maison des Sciences Economiques, 112 Boulevard de l'Hôpital (Paris 13). Room 116.
 - April 28, 2024, 6pm 
+
+</details>
 
