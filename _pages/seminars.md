@@ -15,7 +15,7 @@ If you are interested to present, or to be part of the mailing list, please send
 
 - [Thomas Monnier](https://tlmonnier.github.io) (CREST)
 - *Rural-to-Urban Migration with Search Frictions and Informal Labour: Application to South Africa*
-- Location to be defined
+- Maison des Sciences Economiques, 112 Boulevard de l'Hôpital (Paris 13). Room 116.
 - May 28, 2024, 6pm
 
 <br>
