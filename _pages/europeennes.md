@@ -11,5 +11,4 @@ Cette carte représente le résultat des dernières élections européennes (202
 - Droite: Renaissance, LR, Divers Droite
 - Extrême-Droite: RN, Reconquête, Divers Extrême-Droite
 
-Les voix sont données en pourcentage des exprimés.
-
+Les voix sont données en pourcentage des exprimés. Cliquer ici pour voir la carte: [lien](https://github.com/mateomoglia/mateomoglia.github.io/blob/d0613fa6e4342ddd3ac73917e985a4790c23cfcf/images/carte_europeennes.html).
