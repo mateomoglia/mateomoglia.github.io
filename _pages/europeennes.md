@@ -13,4 +13,3 @@ Cette carte représente le résultat des dernières élections européennes (202
 
 Les voix sont données en pourcentage des exprimés.
 
-file:///Users/mmoglia/Library/CloudStorage/Dropbox/carte_europeennes.html
