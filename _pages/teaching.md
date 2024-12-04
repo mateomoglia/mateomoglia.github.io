@@ -9,14 +9,15 @@ author_profile: true
 <details>
 <summary> 
 
-<b> Topics in Economics (Tutorial) </b> Bachelor 1, Ecole polytechnique. Spring 2024.
+<b> Topics in Economics (Tutorial) </b> Bachelor 1, Ecole polytechnique. Spring 2024, Spring 2025.
 
 </summary>
 
 <ul>
 <li>This tutorial consists of 2-hour 16 "petites classes", to support ECON102 class taught by Pr. Barrows and Pr. Schmutz.</li>
-<li>Students discover standard applied econometrics tools (linear regression, IV, fixed effects, DD). They apply them using real world data or by replicating influential paper, using Stata.</li>
+<li>Students discover standard applied econometrics tools (linear regression, IV, fixed effects, DD). They apply them using real world data or by replicating influential paper, using Stata (2024).</li>
 <li>57 students followed the tutorial.</li>
+<li>New in 2025: the course is now taught in R. I prepared a site for the students: <a href="https://mateomoglia.github.io/2025_eco1s002/home.html">2025_eco1s00</a>. Any comment is welcome!</li>
 </ul>
 
 </details>
