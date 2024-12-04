@@ -184,6 +184,9 @@ collections:
   seminars:
     output: true
     permalink: /:collection/:path/
+  code:
+    output: true
+    permalink: /:collection/:path/
     
 
 # Defaults
