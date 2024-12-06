@@ -88,6 +88,10 @@ author:
   pubmed           : #""
   googlescholar    : #""
   email            : "mateo.moglia@gmail.com"
+  github           : "mateomoglia"
+  spotify          : "https://open.spotify.com/user/matmog7?si=97c548cf237d42cf"
+  linkedin         : "mateo-moglia"
+  twitter          : "MateoMogliaEcon"
   links:
       - label: "Twitter"
         icon: "fab fa-fw fa-twitter-square"
