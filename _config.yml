@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"mateomoglia"
+  github           : #""
   google_plus      :
   keybase          :
   instagram        :
@@ -316,4 +316,5 @@ tag_archive:
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
-  i
+  ignore:
+    envs: development
