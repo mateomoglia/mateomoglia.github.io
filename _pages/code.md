@@ -5,12 +5,8 @@ permalink: /code/
 author_profile: true
 ---
 
-Throughout my research agenda, I enjoy coding, especially in R and Stata, original output. Here, I summarize the code that I was able to produce in diverse projects:
+I much enjoy coding and discovering new ways to do it. Throughout my research career I worked on several projects that required to produce original code I feel confident to share on my [github](https://github.com/mateomoglia). Here, I highlight some output:
 
-<ol>
-  <li>African roads project: to input shapefiles to shortest paths algorithms to join cities in Africa </li>
-  <li>Topics in Economics and Introduction to R class</li>
-  <li>Visualize road itinaries in Norway</li>
-</ol>
-
-  
+### [Afriroads](https://github.com/mateomoglia/afriroads)
+ 
+From a shapefile to a shortest path algorithm + original delineation of citie
