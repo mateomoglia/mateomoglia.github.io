@@ -88,34 +88,19 @@ author:
   pubmed           : #""
   googlescholar    : #""
   email            : "mateo.moglia@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "mateomoglia"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #""
-  lastfm           :
-  linkedin         : "mateo-moglia"
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "@MateoMogliaEcon"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  links:
+      - label: "Twitter"
+        icon: "fab fa-fw fa-twitter-square"
+        url: "https://x.com/MateoMogliaEcon"
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/mateomoglia"
+      - label: "Spotify"
+        icon: "fab fa-fw fa-spotify"
+        url: "https://open.spotify.com/user/matmog7?si=97c548cf237d42cf"
+      - label: "Linkedin"
+        incon: "fab fa-fw fa-linkedin"
+        url: "www.linkedin.com/in/mateo-moglia"
 
 # Reading Files
 include:
