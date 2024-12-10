@@ -20,3 +20,7 @@ Create an original .html website for teaching purpose (Topics in Economics Bache
 ### [Norway routes](https://github.com/mateomoglia/osrm_norway)
 
 Use a leaflet to visualize road itinaries between Norway main cities thanks to OSRM.
+
+### [Geographical and sectoral crosswalk on French data](https://github.com/mateomoglia/crosswalk)
+
+Using preexisting crosswalk, I create an exhaustive crosswalk between geographies from 1968 to 2022, with different layers of aggregation. For sector, I do it by hand between the sectoral classification before 2008 (NES 36) and after (NAF rev.2 A17).
