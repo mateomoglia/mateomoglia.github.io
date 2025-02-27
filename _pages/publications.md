@@ -7,6 +7,16 @@ author_profile: true
 
 ### Work in progress
 
-**The spatial economics impact of population aging**
+<br>
 
-Solo authored. *Draft available upon request*. Presented at: CREST Internal Seminar.
+**The Spatial Economics Impact of Population Ageing**
+
+*Solo authored*. Draft coming soon. Presented as CREST PhD Seminar, RIEF Doctoral Meeting, 2025 Doctorissimes.
+
+
+<br>
+<br>
+
+**Climate amenities and Retired Households Migration**
+
+*with Brice Berland*. Draft Coming soon.
