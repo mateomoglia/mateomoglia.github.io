@@ -11,7 +11,7 @@ author_profile: true
 
 **The Spatial Economics Impact of Population Ageing**
 
-*Solo authored*. Draft coming soon. Presented as CREST PhD Seminar, RIEF Doctoral Meeting, 2025 Doctorissimes.
+*Solo authored*. Draft coming soon. Presented as CREST PhD Seminar, RIEF Doctoral Meeting, 2025 Doctorissimes, AFEPOP 2nd meeting, 2025 EEA Meeting.
 
 <br>
 
