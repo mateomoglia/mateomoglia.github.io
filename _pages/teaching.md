@@ -9,12 +9,29 @@ author_profile: true
 <details>
 <summary> 
 
+<b> Introduction to R and Stata (crash courses) </b> Master DEPP, Ecole polytechnique. Fall 2025.
+
+</summary>
+
+<ul>
+<li>8h per software.</li>
+<li>Crash courses to learn the basics of R and Stata.</li>
+<li>Applications using real-world data: summary stats, dataviz, maps, regression.</li>
+<li>I prepared two markdowns for the students: **soon** </li>
+</ul>
+
+</details>
+
+<br>
+<details>
+<summary> 
+
 <b> Topics in Economics (Tutorial) </b> Bachelor 1, Ecole polytechnique. Spring 2024, Spring 2025.
 
 </summary>
 
 <ul>
-<li>This tutorial consists of 2-hour 16 "petites classes", to support ECON102 class taught by Pr. Barrows and Pr. Schmutz.</li>
+<li>This tutorial consists of 2-hour 16 "petites classes", to support ECON102 class taught by Pr. Barrows and Pr. Schmutz-Bloch.</li>
 <li>Students discover standard applied econometrics tools (linear regression, IV, fixed effects, DD). They apply them using real world data or by replicating influential paper, using Stata (2024).</li>
 <li>57 students followed the tutorial.</li>
 <li>New in 2025: the course is now taught in R. I prepared a site for the students: <a href="https://mateomoglia.github.io/2025_eco1s002/home.html">2025_eco1s00</a>. Any comment is welcome!</li>
@@ -44,7 +61,7 @@ author_profile: true
 <details>
 <summary> 
 
-<b> Orals in economic. </b> CPGE, Lycée du Parc & Lycée Juliette Récamier. Since 2020.
+<b> Orals in Economics. </b> CPGE, Lycée du Parc & Lycée Juliette Récamier. 2020-2023.
 
 </summary>
 
