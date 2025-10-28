@@ -17,7 +17,7 @@ I hold a **MPhil. in Advanced Economics** from [Ecole Normale Supérieure de Lyo
 
 My thesis investigates questions related to **spatial economics**. A large part of my research agenda investigates how **population ageing** shapes cities and inter-regional inequalities, in addition of **climate change**. I am also interested in the **post-industrialization** history of cities, from plant closure spatial effects to urban brownfields renewal. I mainly apply **structural** and **reduced** form tools to highly spatially disaggregated data. 
 
-I also coordinate a PhD-level seminar series in urban and spatial economics for students in the Parisian area. Don't hesitate to reach out if you want to be in the mailing list! It starts in April 2024. [Find all information here!](https://mateomoglia.github.io/seminars/)
+I co-organize a PhD-level workshop in Urban and Spatial Economics, held at CREST on December 4 and 5, 2025. Find the program [here](https://mateomoglia.github.io/files/TemptativeProgram_CRESTUrbanWorkshop.pdf). 
 
 <center><a href="https://mateomoglia.github.io/files/CVMoglia.pdf" class="btn btn--info btn--large">You can download my CV</a></center>
 
