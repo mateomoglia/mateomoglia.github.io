@@ -10,10 +10,10 @@ redirect_from:
 
 Welcome to my website! 
 
-I am a **2nd year PhD student** at [CREST](https://www.crest.science)/[Institut Polytechnique de Paris](https://www.polytechnique.edu) since October '23, under the supervision of [Pierre Boyer](www.pierrecboyer.com) (Polytechnique and CREST) and [Benoit Schmutz-Bloch](https://sites.google.com/site/benoitschmutz/home) (Polytechnique and CREST). I will visit Wharton (UPenn) from January to April 2026, sponsored by [Gilles Duranton](https://real-faculty.wharton.upenn.edu/duranton){:target="_blank"}.
+I am a **3rd year PhD student** at [CREST](https://www.crest.science)/[Institut Polytechnique de Paris](https://www.polytechnique.edu) since October '23, under the supervision of [Pierre Boyer](www.pierrecboyer.com) (Polytechnique and CREST) and [Benoit Schmutz-Bloch](https://sites.google.com/site/benoitschmutz/home) (Polytechnique and CREST). I will **visit Wharton** (UPenn) from January to April 2026, sponsored by [Gilles Duranton](https://real-faculty.wharton.upenn.edu/duranton){:target="_blank"}.
 
 During Spring 2025, I visited the Berlin Quantitative Spatial Economics Group ([bqse](https://bqse.de)), sponsored by [Gabriel Ahlfeldt](https://sites.google.com/view/ahlfeldt/home) (Humboldt Universität). 
-I hold a **MPhil. in Advanced Economics** from [Ecole Normale Supérieure de Lyon](http://economie.ens-lyon.fr){:target="_blank"}'s Department of Economics and I am a **former research assistant** at [HEC Lausanne](https://www.unil.ch/hec/fr/home.html){:target="_blank"}, to [Mathias Thoenig](https://people.unil.ch/mathiasthoenig/){:target="_blank"}.
+I hold a **MPhil. in Advanced Economics** from [Ecole Normale Supérieure de Lyon](http://economie.ens-lyon.fr){:target="_blank"}'s Department of Economics and I am a former research assistant at [HEC Lausanne](https://www.unil.ch/hec/fr/home.html){:target="_blank"}, to [Mathias Thoenig](https://people.unil.ch/mathiasthoenig/){:target="_blank"}.
 
 My thesis investigates questions related to **spatial economics**. A large part of my research agenda investigates how **population ageing** shapes cities and inter-regional inequalities, in addition of **climate change**. I am also interested in the **post-industrialization** history of cities, from plant closure spatial effects to urban brownfields renewal. I mainly apply **structural** and **reduced** form tools to highly spatially disaggregated data. 
 
