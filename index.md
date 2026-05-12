@@ -6,36 +6,27 @@ layout: default
 <div class="profile">
 
   <div>
-    <!-- Once you add assets/images/profile.jpg, replace the placeholder below with:
-    <img class="profile-photo" src="{{ site.author.photo | relative_url }}" alt="{{ site.author.name }}" /> -->
     <img class="profile-photo" src="{{ site.author.photo | relative_url }}" alt="{{ site.author.name }}" />
-  </div>
-
-  <div>
-    <p class="profile-name">{{ site.author.name }}</p>
-
-   <p class="profile-bio">I am a 3rd-year PhD candidate at CREST and Ecole Polytechnique,
-    advised by <a href="https://pierrecboyer.com" target="_blank" rel="noopener">Pierre Boyer</a> and <a href="https://sites.google.com/site/benoitschmutz/home" target="_blank" rel="noopener">Benoit Schmutz-Bloch</a>.
-    My research focuses on urban economics, with interests in local public finance, environmental economics, and empirical industrial organization.</p>
-   <p class="profile-bio">I will be on the <strong>2026-2027</strong> job market.</p>
-
-    <div class="profile-links">
-    <a href="mailto:{{ site.author.email | relative_url }}" target="_blank">mateo.moglia@gmail.com</a>
-      <span class="sep">&middot;</span>
+    <div class="profile-links" style="margin-top:.85rem">
+      <a href="mailto:mateo.moglia@gmail.com">Mail</a>
       <a href="{{ site.author.cv | relative_url }}" target="_blank">CV</a>
-      <span class="sep">&middot;</span>
       <a href="https://scholar.google.com/citations?user={{ site.author.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a>
-      <span class="sep">&middot;</span>
       <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener">Twitter</a>
-      <span class="sep">&middot;</span>
       <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a>
-      <span class="sep">&middot;</span>
       <a href="{{ site.author.spotify }}" target="_blank" rel="noopener">Spotify</a>
     </div>
   </div>
 
-</div>
+  <div>
+    <p class="profile-name">{{ site.author.name }}</p>
+    <p class="profile-bio">I am a 3rd-year PhD candidate at CREST and Ecole Polytechnique,
+    advised by <a href="https://pierrecboyer.com" target="_blank" rel="noopener">Pierre Boyer</a> and <a href="https://sites.google.com/site/benoitschmutz/home" target="_blank" rel="noopener">Benoit Schmutz-Bloch</a>.
+    My research focuses on urban economics, with interests in local public finance, environmental economics, and empirical industrial organization.</p>
+    <p class="profile-bio">I hold a MPhil. in Economics from ENS de Lyon and am a former research assistant to <a href="https://people.unil.ch/mathiasthoenig/" target="_blank" rel="noopener">Mathias Thoenig</a>. During the Summer '25, I visited the Berlin Quantitative Spatial Group, sponsored by <a href="https://sites.google.com/view/ahlfeldt/home" target="_blank" rel="noopener">Gabriel Ahlfeldt</a>. During the Spring 2026, I visited the Wharton School, sponsored by <a href="https://real-estate.wharton.upenn.edu/profile/duranton/" target="_blank" rel="noopener">Gilles Duranton</a>.</p> 
+    <p class="profile-bio">I will be on the <strong>2026-2027</strong> job market.</p>
+  </div>
 
+</div>
 
 <!-- ══ JOB MARKET PAPER ══════════════════════ -->
 <div class="section">
@@ -50,7 +41,7 @@ layout: default
   <a class="pill" href="#">Slides</a>
 </p>
 <button class="abstract-btn" onclick="toggleAbstract(this)">
-  <span class="arr">&#9654;</span> Abstract
+  <span class="arr">&#9654;</span> abstract
 </button>
 <div class="abstract-body">
   What are the housing supply costs in dense areas? Levering a unique dataset, linking development costs, building permits, and precise land occupation, I provide precise estimates of the housing construction costs by project type. I embed those cost estimates in an option-value forward-looking model of land (re)development, calibrated on the Paris area. Thanks to model estimation, I am able to precisely separate regulation, construction, and land costs in the local housing supply elasticity computations. Counterfactual exercises highlight the importance of targeted subsidies and loans to address the current housing supply crisis.
@@ -59,8 +50,8 @@ layout: default
 
 </div>
 
-<!-- ══ WORKING PAPERS ════════════════════════ -->
 
+<!-- ══ WORKING PAPERS ════════════════════════ -->
 <div class="section">
 <h2 class="section-title">Working Papers</h2>
 
@@ -72,30 +63,32 @@ layout: default
     </p>
     <div><a class="pill" href="https://crest.science/RePEc/wpstorage/2025-15.pdf" target="_blank" rel="noopener">PDF</a></div>
     <button class="abstract-btn" onclick="toggleAbstract(this)">
-      <span class="arr">&#9654;</span> Abstract
+      <span class="arr">&#9654;</span> abstract
     </button>
     <div class="abstract-body">
       Rich countries are ageing and will all soon lose population. This paper examines the impact of this major demographic shift on welfare and inequality by taking into account its wide spatial heterogeneity. Using administrative data on population, housing markets, and local public finance in France, I reveal a new trade-off related to population ageing: an increase in housing costs and in local tax revenues. I build and calibrate a quantitative spatial model in which households differ in terms of skill, age, and family size. I then use this model to run counterfactual experiments based on demographic forecasts. The results show small positive impacts on welfare albeit with an increase in spatial inequalities.
     </div>
-  <p class="presentations">Presentations: AFEPOP (Marseille), CREST, RIEF (Marseille), Doctorissimies (PSE), EEA (Bordeaux), CEP (Berlin)</p>
+    <p class="presentations">Presentations: AFEPOP (Marseille), CREST, RIEF (Marseille), Doctorissimies (PSE), EEA (Bordeaux), CEP (Berlin)</p>
   </li>
 
   <li class="paper-item">
     <p class="paper-title">Age-Specific Response to Climate Change
-      <span class="jmp-badge">Draft soon</span> 
+      <span class="jmp-badge">Draft soon</span>
     </p>
-    <p class="paper-meta">With <a href="https://https://briceberland.github.io" target="_blank" rel="noopener">Brice Berland</a></p>
+    <p class="paper-meta">With <a href="https://briceberland.github.io" target="_blank" rel="noopener">Brice Berland</a></p>
     <div><a class="pill" href="#">PDF</a></div>
     <button class="abstract-btn" onclick="toggleAbstract(this)">
-      <span class="arr">&#9654;</span> Abstract
+      <span class="arr">&#9654;</span> abstract
     </button>
     <div class="abstract-body">
       Soon.
     </div>
+    <p class="presentations">Presentations (incl. by co-author*): AFEPOP* (Strasbourg), HEC, CREST*</p>
   </li>
+
 </ul>
 </div>
-  <p class="presentations">Presentations (incl. by co-author*): AFEPOP* (Strasbourg), HEC, CREST*</p>
+
 
 <!-- ══ TEACHING ══════════════════════════════ -->
 <div class="section">
@@ -124,7 +117,7 @@ layout: default
       <div class="teaching-course">Introduction to Economics (Bachelor)</div>
       <div class="teaching-role">Teaching Assistant &middot; Ecole Polytechnique</div>
     </div>
-    <div class="teaching-date">Spring 2024-2025</div>
+    <div class="teaching-date">Spring 2024–2025</div>
   </li>
 
   <li class="teaching-item">
@@ -136,6 +129,18 @@ layout: default
   </li>
 
 </ul>
+</div>
+
+
+<!-- ══ REFERENCES ════════════════════════════ -->
+<div class="section">
+<h2 class="section-title">References</h2>
+
+<div class="misc">
+  <p><strong><a href="https://pierrecboyer.com" target="_blank" rel="noopener">Pierre Boyer</a></strong><br>Professor of Economics, CREST &amp; Ecole Polytechnique</p>
+  <p><strong><a href="https://sites.google.com/site/benoitschmutz/home" target="_blank" rel="noopener">Benoit Schmutz-Bloch</a></strong><br>Professor of Economics, CREST &amp; Ecole Polytechnique</p>
+  <p><strong><a href="https://people.unil.ch/mathiasthoenig/" target="_blank" rel="noopener">Mathias Thoenig</a></strong><br>Professor of Economics, HEC Lausanne</p>
+</div>
 </div>
 
 <!-- ══ MISCELLANEOUS ═════════════════════════ -->
