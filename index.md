@@ -36,10 +36,6 @@ layout: default
   The Hidden Costs of Urbanization
   <span class="jmp-badge">Draft soon</span>
 </p>
-<p class="paper-meta">
-  <a class="pill" href="#">PDF</a>
-  <a class="pill" href="#">Slides</a>
-</p>
 <button class="abstract-btn" onclick="toggleAbstract(this)">
   <span class="arr">&#9654;</span> abstract
 </button>
@@ -76,7 +72,6 @@ layout: default
       <span class="jmp-badge">Draft soon</span>
     </p>
     <p class="paper-meta">With <a href="https://briceberland.github.io" target="_blank" rel="noopener">Brice Berland</a></p>
-    <div><a class="pill" href="#">PDF</a></div>
     <button class="abstract-btn" onclick="toggleAbstract(this)">
       <span class="arr">&#9654;</span> abstract
     </button>
