@@ -31,7 +31,7 @@ a {
   color: inherit;
   text-decoration: underline;
   text-decoration-style: dashed;
-  text-decoration-color: var(--border);
+  text-decoration-color: var(--light);
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
   transition: text-decoration-thickness .15s, text-underline-offset .15s;
