@@ -22,7 +22,7 @@ layout: default
     <p class="profile-bio">I am a 3rd-year PhD candidate at CREST and Ecole Polytechnique,
     advised by <a href="https://pierrecboyer.com" target="_blank" rel="noopener">Pierre Boyer</a> and <a href="https://sites.google.com/site/benoitschmutz/home" target="_blank" rel="noopener">Benoit Schmutz-Bloch</a>.
     My research focuses on urban economics, with interests in local public finance, environmental economics, and empirical industrial organization.</p>
-    <p class="profile-bio">I hold a MPhil. in Economics from ENS de Lyon and am a former research assistant to <a href="https://people.unil.ch/mathiasthoenig/" target="_blank" rel="noopener">Mathias Thoenig</a>. During the Summer '25, I visited the Berlin Quantitative Spatial Group, sponsored by <a href="https://sites.google.com/view/ahlfeldt/home" target="_blank" rel="noopener">Gabriel Ahlfeldt</a>. During the Spring 2026, I visited the Wharton School, sponsored by <a href="https://real-estate.wharton.upenn.edu/profile/duranton/" target="_blank" rel="noopener">Gilles Duranton</a>.</p> 
+    <p class="profile-bio">I hold a MPhil. in Economics from ENS de Lyon and am a former research assistant to <a href="https://people.unil.ch/mathiasthoenig/" target="_blank" rel="noopener">Mathias Thoenig</a>. During the Summer 2025, I visited the Berlin Quantitative Spatial Group, sponsored by <a href="https://sites.google.com/view/ahlfeldt/home" target="_blank" rel="noopener">Gabriel Ahlfeldt</a>. During the Spring 2026, I visited the Wharton School, sponsored by <a href="https://real-estate.wharton.upenn.edu/profile/duranton/" target="_blank" rel="noopener">Gilles Duranton</a>.</p> 
     <p class="profile-bio">I will be on the <strong>2026-2027</strong> job market.</p>
   </div>
 
