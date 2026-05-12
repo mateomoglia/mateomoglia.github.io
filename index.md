@@ -77,6 +77,7 @@ layout: default
     <div class="abstract-body">
       Rich countries are ageing and will all soon lose population. This paper examines the impact of this major demographic shift on welfare and inequality by taking into account its wide spatial heterogeneity. Using administrative data on population, housing markets, and local public finance in France, I reveal a new trade-off related to population ageing: an increase in housing costs and in local tax revenues. I build and calibrate a quantitative spatial model in which households differ in terms of skill, age, and family size. I then use this model to run counterfactual experiments based on demographic forecasts. The results show small positive impacts on welfare albeit with an increase in spatial inequalities.
     </div>
+  <p class="presentations">Presentations: AFEPOP (Marseille), CREST, RIEF (Marseille), Doctorissimies (PSE), EEA (Bordeaux), CEP (Berlin)</p>
   </li>
 
   <li class="paper-item">
@@ -92,10 +93,9 @@ layout: default
       Soon.
     </div>
   </li>
-
 </ul>
 </div>
-
+  <p class="presentations">Presentations (incl. by co-author*): AFEPOP* (Strasbourg), HEC, CREST*</p>
 
 <!-- ══ TEACHING ══════════════════════════════ -->
 <div class="section">
@@ -130,7 +130,7 @@ layout: default
   <li class="teaching-item">
     <div>
       <div class="teaching-course">Quantitative Methods for Social Science (Master)</div>
-      <div class="teaching-role">Teaching Assistant &middot; Ecole Normale Supérieure de Lyon</div>
+      <div class="teaching-role">Instructor &middot; Ecole Normale Supérieure de Lyon</div>
     </div>
     <div class="teaching-date">Spring 2023</div>
   </li>
