@@ -42,7 +42,7 @@ layout: default
 <div class="abstract-body">
   What are the housing supply costs in dense areas? Levering a unique dataset, linking development costs, building permits, and precise land occupation, I provide precise estimates of the housing construction costs by project type. I embed those cost estimates in an option-value forward-looking model of land (re)development, calibrated on the Paris area. Thanks to model estimation, I am able to precisely separate regulation, construction, and land costs in the local housing supply elasticity computations. Counterfactual exercises highlight the importance of targeted subsidies and loans to address the current housing supply crisis.
 </div>
-<p class="presentations">Presentations: UEA (Barcelona), Aix-Marseille School of Economics, AFSE (Nantes)</p>
+<p class="presentations">Presentations: UEA (Barcelona), Aix-Marseille School of Economics, HEC, AFSE (Nantes)</p>
 
 </div>
 
