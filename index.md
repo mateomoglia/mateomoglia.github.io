@@ -40,7 +40,7 @@ layout: default
   <span class="arr">&#9654;</span> abstract
 </button>
 <div class="abstract-body">
-  What are the housing supply costs in dense areas? Levering a unique dataset, linking development costs, building permits, and precise land occupation, I provide precise estimates of the housing construction costs by project type. I embed those cost estimates in an option-value forward-looking model of land (re)development, calibrated on the Paris area. Thanks to model estimation, I am able to precisely separate regulation, construction, and land costs in the local housing supply elasticity computations. Counterfactual exercises highlight the importance of targeted subsidies and loans to address the current housing supply crisis.
+  What are the housing supply costs in dense areas? Leveraging a unique dataset, linking development costs, building permits, and precise land occupation, I provide precise estimates of the housing construction costs by project type. I embed those cost estimates in an option-value forward-looking model of land (re)development, calibrated on the Paris area. Thanks to model estimation, I am able to precisely separate regulation, construction, and land costs in the local housing supply elasticity computations. Counterfactual exercises highlight the importance of targeted subsidies and loans to address the current housing supply crisis.
 </div>
 <p class="presentations">Presentations: UEA (Barcelona), Aix-Marseille School of Economics, HEC, AFSE (Nantes)</p>
 
@@ -78,7 +78,7 @@ layout: default
     <div class="abstract-body">
       Soon.
     </div>
-    <p class="presentations">Presentations (incl. by co-author*): AFEPOP* (Strasbourg), HEC, CREST*</p>
+    <p class="presentations">Presentations (incl. by co-author&#42;): AFEPOP&#42; (Strasbourg), HEC, CREST&#42;</p>
   </li>
 
 </ul>
@@ -160,9 +160,12 @@ layout: default
 
 <!-- ══ FOOTER ════════════════════════════════ -->
 <footer class="site-footer">
-  {{ site.author.name }} &middot; Last updated {{ 'now' | date: "%B %Y" }}
+  {{ site.author.name }} &middot; Last updated {{ 'now' | date: "%B %Y" }} <br>
+  <span style="font-size:.7rem">Check my office mates: &#8592;
+    <a href="https://sites.google.com/view/aurel-melard/home?authuser=1" target="_blank">Aurel Melard</a> &amp;
+    <a href="https://sites.google.com/view/laure-heidmann/home?authuser=0" target="_blank">Laure Heidmann</a> &#8594;
+  </span>
 </footer>
-
 
 <script>
 function toggleAbstract(btn) {
