@@ -22,6 +22,7 @@ layout: default
     <p class="profile-bio">I am a 4th-year PhD candidate at CREST and Ecole Polytechnique, advised by <a href="https://pierrecboyer.com" target="_blank" rel="noopener">Pierre Boyer</a> and <a href="https://sites.google.com/site/benoitschmutz/home" target="_blank" rel="noopener">Benoit Schmutz-Bloch</a>.
     My research focuses on urban economics, with interests in public and environmental economics.</p>
     <p class="profile-bio">I hold a MPhil. in Economics from ENS de Lyon. During the Summer 2025, I visited the Berlin Quantitative Spatial Group, sponsored by <a href="https://sites.google.com/view/ahlfeldt/home" target="_blank" rel="noopener">Gabriel Ahlfeldt</a>. During the Spring 2026, I visited the Wharton School, sponsored by <a href="https://real-estate.wharton.upenn.edu/profile/duranton/" target="_blank" rel="noopener">Gilles Duranton</a>.</p> 
+    <p class="profile bio"> Consider applying to the <a href="https://crest-urban-workshop.github.io/_2026/" target="_blank" rel="noopener">CREST Urban Economics PhD Workshop</a> (deadline October 1st, 2026). </p> 
     <p class="profile-bio">I am on the <strong>2026-2027</strong> job market.</p>
   </div>
 
@@ -131,9 +132,10 @@ Why does housing supply stay low where rents are highest? Linking permit-level s
 <h2 class="section-title">References</h2>
 
 <div class="misc">
+  <p><strong><a href="https://sites.google.com/view/ahlfeldt/home" target="_blank" rel="noopener">Gabriel Ahlfeldt</a></strong><br>Professor of Economics, Humboldt University</p>
   <p><strong><a href="https://pierrecboyer.com" target="_blank" rel="noopener">Pierre Boyer</a></strong><br>Professor of Economics, CREST &amp; Ecole Polytechnique</p>
+  <p><strong><a href="https://real-estate.wharton.upenn.edu/profile/duranton/" target="_blank" rel="noopener">Gilles Duranton</a></strong><br>Professor of Economics, The Wharton School (University of Pennsylvania)</p>
   <p><strong><a href="https://sites.google.com/site/benoitschmutz/home" target="_blank" rel="noopener">Benoit Schmutz-Bloch</a></strong><br>Professor of Economics, CREST &amp; Ecole Polytechnique</p>
-  <p><strong><a href="https://people.unil.ch/mathiasthoenig/" target="_blank" rel="noopener">Mathias Thoenig</a></strong><br>Professor of Economics, HEC Lausanne</p>
 </div>
 </div>
 
@@ -143,11 +145,11 @@ Why does housing supply stay low where rents are highest? Linking permit-level s
 
 <div class="misc">
   <p><strong>Data replicator</strong><br>
-  The Economic Journal, the Econometrics Journal, the Journal of Political Economy</p>
+  The Journal of Political Economy, The Economic Journal, the Econometrics Journal </p>
 
   <p><strong>Other activities</strong></p>
   <ul>
-    <li>Organiser: CREST PhD Urban and Spatial Workshop (2025, 2026), Economics Days @ ENS de Lyon (2023)</li>
+    <li>Organiser: CREST PhD Urban and Spatial Workshop (2025, <a href="https://crest-urban-workshop.github.io/_2026/" target="_blank" rel="noopener">2026</a>), Economics Days @ ENS de Lyon (2023)</li>
     <li>ENS de Lyon then CREST student representative (since 2019)</li>
   </ul>
 
