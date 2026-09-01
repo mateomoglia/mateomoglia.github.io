@@ -165,6 +165,8 @@ layout: default
     <a href="https://sites.google.com/view/aurel-melard/home?authuser=1" target="_blank">Aurel Melard</a> &amp;
     <a href="https://sites.google.com/view/laure-heidmann/home?authuser=0" target="_blank">Laure Heidmann</a> &#8594;
   </span>
+  <br>
+  Profile picture by Lucie de Castro-Zaleksi <a href="https://www.instagram.com/luciedcz" target="_blank">@luciedcz</a>
 </footer>
 
 <script>
