@@ -22,7 +22,7 @@ layout: default
     <p class="profile-bio">I am a 4th-year PhD candidate at CREST and Ecole Polytechnique, advised by <a href="https://pierrecboyer.com" target="_blank" rel="noopener">Pierre Boyer</a> and <a href="https://sites.google.com/site/benoitschmutz/home" target="_blank" rel="noopener">Benoit Schmutz-Bloch</a>.
     My research focuses on urban economics, with interests in public and environmental economics.</p>
     <p class="profile-bio">I hold a MPhil. in Economics from ENS de Lyon. During the Summer 2025, I visited the Berlin Quantitative Spatial Group, sponsored by <a href="https://sites.google.com/view/ahlfeldt/home" target="_blank" rel="noopener">Gabriel Ahlfeldt</a>. During the Spring 2026, I visited the Wharton School, sponsored by <a href="https://real-estate.wharton.upenn.edu/profile/duranton/" target="_blank" rel="noopener">Gilles Duranton</a>.</p> 
-    <p class="profile bio"> Consider applying to the <a href="https://crest-urban-workshop.github.io/_2026/" target="_blank" rel="noopener">CREST Urban Economics PhD Workshop</a> (deadline October 1st, 2026). </p> 
+    <p class="profile bio">Apply <a href="https://crest-urban-workshop.github.io/_2026/" target="_blank" rel="noopener">here</a> to the 2nd CREST Urban Economics PhD Workshop (deadline October 1st, 2026).</p> 
     <p class="profile-bio">I am on the <strong>2026-2027</strong> job market.</p>
   </div>
 
@@ -154,7 +154,7 @@ Why does housing supply stay low where rents are highest? Linking permit-level s
   </ul>
 
   <p><strong>Personal</strong><br>
-  Outside research I enjoy listening to funk and jazz music, go to post-punk shows, and play the bass.</p>
+  Outside research I enjoy listening to funk and jazz music, and playing the bass.</p>
 </div>
 </div>
 
