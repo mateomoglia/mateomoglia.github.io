@@ -20,7 +20,7 @@ layout: default
   <div>
     <p class="profile-name">{{ site.author.name }}</p>
     <p class="profile-bio">I am a 4th-year PhD candidate at CREST and Ecole Polytechnique, advised by <a href="https://pierrecboyer.com" target="_blank" rel="noopener">Pierre Boyer</a> and <a href="https://sites.google.com/site/benoitschmutz/home" target="_blank" rel="noopener">Benoit Schmutz-Bloch</a>.
-    My research focuses on urban economics, with interests in public and environmental economics.</p>
+    I am an applied microeconomist, with interests in real estate, local public finance, household location choice, and climate change.</p>
     <p class="profile-bio">I hold a MPhil. in Economics from ENS de Lyon. During the Summer 2025, I visited the Berlin Quantitative Spatial Group, sponsored by <a href="https://sites.google.com/view/ahlfeldt/home" target="_blank" rel="noopener">Gabriel Ahlfeldt</a>. During the Spring 2026, I visited the Wharton School, sponsored by <a href="https://real-estate.wharton.upenn.edu/profile/duranton/" target="_blank" rel="noopener">Gilles Duranton</a>.</p> 
     <p class="profile-bio">Join us for the 2nd CREST Urban Economics PhD Workshop, on December 10 and 11. Programme and registration link <a href="https://crest-urban-workshop.github.io/_2026/" target="_blank" rel="noopener">here</a>!</p> 
     <p class="profile-bio">I am on the <strong>2026-2027</strong> job market.</p>
@@ -42,7 +42,7 @@ layout: default
 <div class="abstract-body">
 Why does housing supply stay low where rents are highest? Linking permit-level survey data to building permits and precise parcel-level land occupation, I directly measure construction costs rather than inferring them from equilibrium outcomes. Thanks to an option-value model of redevelopment in which construction takes time and land is bargained, I recover parcel-level fixed costs as a structural residual net of both frictions, and decompose them: demolition accounts for 15% of their crosssectional variance, observed land-use regulation for 21%, and 37% remains unexplained by either. Two counterfactual results follow. First, setting fixed costs to zero raises supply by 104.1% and reduces rent by 22.7%, whereas removing the density cap (FAR) entirely closes only 41% of that gap. Second, the friction is too large for marginal instruments: the median parcel requires a transfer of 1,839 €/m2 to get redeveloped. In all, the binding constraint is not land-use regulation but the construction fixed costs of housing supply.
 </div>
-<p class="presentations">Presentations: UEA (Barcelona), Aix-Marseille School of Economics, HEC PhD Conference, AFSE (Nantes), BQSE Workshop (Berlin), Lugano, CREST</p>
+<p class="presentations">Presentations: 2026 Urban Economics Association (Barcelona), Aix-Marseille School of Economics, 2026 HEC PhD Conference, 2026 AFSE Annual Meeting (Nantes), Berlin Quantitative Spatial Economics Workshop, 2026 Real Estate and Urban Economics Conference (Lugano), CREST, Economics of Housing Policy Workshop (Rotterdam)</p>
 
 </div>
 
