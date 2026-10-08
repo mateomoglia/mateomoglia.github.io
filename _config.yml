@@ -5,6 +5,7 @@ title:       "Matéo Moglia"
 description: "PhD Candidate · Department · University"
 url:         "https://mateomoglia.github.io"
 baseurl:     ""
+favicon:     "/images/favicon.png"
 
 # ─────────────────────────────────────────────
 #  AUTHOR
