@@ -33,7 +33,7 @@ layout: default
 <h2 class="section-title">Job Market Paper</h2>
 
 <p class="paper-title">
-  The Hidden Costs of Urbanization
+  The Hidden Costs of Urban Renewal
 </p>
 <div><a class="pill" href="https://mateomoglia.github.io/files/JMPMoglia.pdf" target="_blank" rel="noopener">PDF</a></div>
 <button class="abstract-btn" onclick="toggleAbstract(this)">
