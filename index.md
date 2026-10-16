@@ -20,7 +20,7 @@ layout: default
   <div>
     <p class="profile-name">{{ site.author.name }}</p>
     <p class="profile-bio">I am a 4th-year PhD candidate at CREST and Ecole Polytechnique, advised by <a href="https://pierrecboyer.com" target="_blank" rel="noopener">Pierre Boyer</a> and <a href="https://sites.google.com/site/benoitschmutz/home" target="_blank" rel="noopener">Benoit Schmutz-Bloch</a>.
-    I am an applied microeconomist, with interests in real estate, local public finance, household location choice, and climate change.</p>
+    I am an structural microeconomist, with interest in public economics, urban economics, and environmental economics. My research addresses questions related to population ageing, climate migration, real estate, and urban renewal.</p>
     <p class="profile-bio">I hold a MPhil. in Economics from ENS de Lyon. During the Summer 2025, I visited the Berlin Quantitative Spatial Group, sponsored by <a href="https://sites.google.com/view/ahlfeldt/home" target="_blank" rel="noopener">Gabriel Ahlfeldt</a>. During the Spring 2026, I visited the Wharton School, sponsored by <a href="https://real-estate.wharton.upenn.edu/profile/duranton/" target="_blank" rel="noopener">Gilles Duranton</a>.</p> 
     <p class="profile-bio">Join us for the 2nd CREST Urban Economics PhD Workshop, on December 10 and 11. Programme and registration link <a href="https://crest-urban-workshop.github.io/_2026/" target="_blank" rel="noopener">here</a>!</p> 
     <p class="profile-bio">I am on the <strong>2026-2027</strong> job market.</p>
