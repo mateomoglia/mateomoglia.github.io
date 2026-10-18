@@ -55,7 +55,6 @@ Three constraints hinder urban redevelopment: (i) market structure (concentrated
 
   <li class="paper-item">
     <p class="paper-title">The Spatial Impacts of Population Ageing
-      <span class="jmp-badge">Submitted</span>
     </p>
     <div><a class="pill" href="https://crest.science/RePEc/wpstorage/2025-15.pdf" target="_blank" rel="noopener">PDF</a></div>
     <button class="abstract-btn" onclick="toggleAbstract(this)">
