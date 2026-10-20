@@ -63,7 +63,7 @@ Three constraints hinder urban redevelopment: (i) market structure (concentrated
     <div class="abstract-body">
       Rich countries are ageing and will all soon lose population. This paper examines the impact of this major demographic shift on welfare and inequality by taking into account its wide spatial heterogeneity. Using administrative data on population, housing markets, and local public finance in France, I reveal a new trade-off related to population ageing: an increase in housing costs and in local tax revenues. I build and calibrate a quantitative spatial model in which households differ in terms of skill, age, and family size. I then use this model to run counterfactual experiments based on demographic forecasts. The results show small positive impacts on welfare albeit with an increase in spatial inequalities.
     </div>
-    <p class="presentations">Presentations: AFEPOP (Marseille), CREST, RIEF (Marseille), Doctorissimies (PSE), EEA (Bordeaux), CEP (Berlin)</p>
+    <p class="presentations">Presentations: 2025 Association Française des Economistes de la Population (Marseille), CREST Internal seminar, 2025 RIEF Doctoral Meeting (Marseille), 2025 Doctorissimes (PSE), 2025 European Economic Association Meeting (Bordeaux), 2025 Conference on Regional Economic Inequalities (Berlin)</p>
   </li>
 
   <li class="paper-item">
@@ -77,7 +77,7 @@ Three constraints hinder urban redevelopment: (i) market structure (concentrated
     <div class="abstract-body">
       Soon.
     </div>
-    <p class="presentations">Presentations (incl. by co-author&#42;): AFEPOP&#42; (Strasbourg), HEC, CREST&#42;</p>
+    <p class="presentations">Presentations (incl. by co-author&#42;): 2026 Association Française des Economistes de la Population&#42; (Strasbourg), PhD Workshop in Urban Econmics (HEC), CREST PhD Seminar&#42;</p>
   </li>
 
 </ul>
