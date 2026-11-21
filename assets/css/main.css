@@ -13,7 +13,7 @@ html { font-size: 16px; scroll-behavior: smooth; }
   --bg:          #fff;
   --bg-alt:      #f9f9f7;
   --font:        'Inter', 'Helvetica Neue', Arial, sans-serif;
-  --w:           680px;
+  --w:           943px;
 }
 
 /* ── Base ── */
@@ -34,9 +34,11 @@ a {
   text-decoration-color: var(--light);
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
-  transition: text-decoration-thickness .15s, text-underline-offset .15s;
+  transition: color .15s, text-decoration-color .15s, text-decoration-thickness .15s, text-underline-offset .15s;
 }
 a:hover {
+  color: var(--crimson);
+  text-decoration-color: var(--crimson);
   text-decoration-thickness: 2px;
   text-underline-offset: 4px;
 }
@@ -53,7 +55,7 @@ a:hover {
 ════════════════════════════ */
 .profile {
   display: grid;
-  grid-template-columns: 160px 1fr;
+  grid-template-columns: 275px 1fr;
   gap: 2.25rem;
   align-items: start;
   margin-bottom: 3rem;
@@ -61,8 +63,8 @@ a:hover {
 
 /* Square photo */
 .profile-photo {
-  width: 160px;
-  height: 160px;
+  width: 275px;
+  height: 275px;
   object-fit: cover;
   display: block;
   border: 1px solid var(--border);
@@ -153,6 +155,18 @@ a:hover {
   margin-bottom: .2rem;
   color: var(--text);
 }
+.paper-head {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  margin-bottom: .2rem;
+}
+.paper-head .paper-title { margin: 0; }
+.paper-head .pill {
+  flex-shrink: 0;
+  margin: 0;
+  line-height: 1.4;
+}
 .paper-title a {
   color: var(--text);
 }
@@ -188,7 +202,7 @@ a:hover {
   padding: .1rem .5rem;
   border: 1px solid var(--border);
   color: var(--muted);
-  border-radius: 2px;
+  border-radius: 6px;
   margin-right: .2rem;
   text-decoration: none !important;
   transition: color .12s, border-color .12s;

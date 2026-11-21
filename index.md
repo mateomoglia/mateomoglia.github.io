@@ -10,7 +10,6 @@ layout: default
     <div class="profile-links" style="margin-top:.85rem">
       <a href="mailto:mateo.moglia@gmail.com">Mail</a>
       <a href="{{ site.author.cv | relative_url }}" target="_blank">CV</a>
-      <a href="https://scholar.google.com/citations?user={{ site.author.google_scholar }}" target="_blank" rel="noopener">Google Scholar</a>
       <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener">Twitter</a>
       <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a>
       <a href="{{ site.author.spotify }}" target="_blank" rel="noopener">Spotify</a>
@@ -32,10 +31,10 @@ layout: default
 <div class="section">
 <h2 class="section-title">Job Market Paper</h2>
 
-<p class="paper-title">
-  The Hidden Costs of Urban Renewal
-</p>
-<div><a class="pill" href="https://mateomoglia.github.io/files/JMPMoglia.pdf" target="_blank" rel="noopener">PDF</a></div>
+<div class="paper-head">
+  <p class="paper-title">The Hidden Costs of Urban Renewal</p>
+  <a class="pill" href="https://mateomoglia.github.io/files/JMPMoglia.pdf" target="_blank" rel="noopener">PDF</a>
+</div>
 <button class="abstract-btn" onclick="toggleAbstract(this)">
   <span class="arr">&#9654;</span> abstract
 </button>
@@ -54,9 +53,10 @@ This paper studies three wedges that hinder urban redevelopment, (i) market stru
 <ul class="paper-list">
 
   <li class="paper-item">
-    <p class="paper-title">The Spatial Impacts of Population Ageing
-    </p>
-    <div><a class="pill" href="https://mateomoglia.github.io/files/SpatialImpactsAgeing.pdf" target="_blank" rel="noopener">PDF</a></div>
+    <div class="paper-head">
+      <p class="paper-title">The Spatial Impacts of Population Ageing</p>
+      <a class="pill" href="https://mateomoglia.github.io/files/SpatialImpactsAgeing.pdf" target="_blank" rel="noopener">PDF</a>
+    </div>
     <button class="abstract-btn" onclick="toggleAbstract(this)">
       <span class="arr">&#9654;</span> abstract
     </button>
@@ -67,9 +67,11 @@ This paper studies three wedges that hinder urban redevelopment, (i) market stru
   </li>
 
   <li class="paper-item">
-    <p class="paper-title">Age-Specific Preferences for Climate Amenities</p>
+    <div class="paper-head">
+      <p class="paper-title">Age-Specific Preferences for Climate Amenities</p>
+      <a class="pill" href="https://mateomoglia.github.io/files/AgeClimatePreferences.pdf" target="_blank" rel="noopener">PDF</a>
+    </div>
     <p class="paper-meta">With <a href="https://briceberland.github.io" target="_blank" rel="noopener">Brice Berland</a></p>
-    <div><a class="pill" href="https://mateomoglia.github.io/files/AgeClimatePreferences.pdf" target="_blank" rel="noopener">PDF</a></div>
     <button class="abstract-btn" onclick="toggleAbstract(this)">
       <span class="arr">&#9654;</span> abstract
     </button>
