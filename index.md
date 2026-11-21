@@ -56,7 +56,7 @@ This paper studies three wedges that hinder urban redevelopment, (i) market stru
   <li class="paper-item">
     <p class="paper-title">The Spatial Impacts of Population Ageing
     </p>
-    <div><a class="pill" href="https://crest.science/RePEc/wpstorage/2025-15.pdf" target="_blank" rel="noopener">PDF</a></div>
+    <div><a class="pill" href="https://mateomoglia.github.io/files/SpatialImpactsAgeing.pdf" target="_blank" rel="noopener">PDF</a></div>
     <button class="abstract-btn" onclick="toggleAbstract(this)">
       <span class="arr">&#9654;</span> abstract
     </button>
@@ -67,15 +67,14 @@ This paper studies three wedges that hinder urban redevelopment, (i) market stru
   </li>
 
   <li class="paper-item">
-    <p class="paper-title">Age-Specific Response to Climate Change
-      <span class="jmp-badge">Draft soon</span>
-    </p>
+    <p class="paper-title">Age-Specific Preferences for Climate Amenities</p>
     <p class="paper-meta">With <a href="https://briceberland.github.io" target="_blank" rel="noopener">Brice Berland</a></p>
+    <div><a class="pill" href="https://mateomoglia.github.io/files/AgeClimatePreferences.pdf" target="_blank" rel="noopener">PDF</a></div>
     <button class="abstract-btn" onclick="toggleAbstract(this)">
       <span class="arr">&#9654;</span> abstract
     </button>
     <div class="abstract-body">
-      Soon.
+      How do individuals value climate as a residential amenity over the life cycle? How does climate change affect the spatial allocation of climate amenities? Using individual-level census data and high-resolution climate projections for France, we document robust age heterogeneity in climate sorting: older cohorts move less often than prime-age workers, but when they do, they systematically choose thermally more comfortable destinations. We estimate age-specific marginal willingnesses to pay (MWTP) for climate amenities in a framework à la Bayer et al. (2009) and embed these preferences in a quantitative spatial model to simulate the general-equilibrium effects of climate change on population distribution and local markets until 2100. Older cohorts rarely relocate: those in warming regions bear most of the welfare costs, while those in improving regions gain. Younger, more mobile cohorts adapt by migrating toward better climates. The resulting shifts in the age composition of local areas matter for adaptation policy and for public good provision.\
     </div>
     <p class="presentations">Presentations (incl. by co-author&#42;): 2026 Association Française des Economistes de la Population&#42; (Strasbourg), PhD Workshop in Urban Econmics (HEC), CREST PhD Seminar&#42;</p>
   </li>
@@ -111,7 +110,7 @@ This paper studies three wedges that hinder urban redevelopment, (i) market stru
       <div class="teaching-course">Introduction to Economics (Bachelor)</div>
       <div class="teaching-role">Teaching Assistant &middot; Ecole Polytechnique</div>
     </div>
-    <div class="teaching-date">Spring 2024–2025</div>
+    <div class="teaching-date">Spring 2024, 2025, 2027</div>
   </li>
 
   <li class="teaching-item">
